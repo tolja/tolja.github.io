@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.3.1",
-      "/Users/tolja/Downloads/startbootstrap-creative-gh-pages"
+      "/Users/tolja/Desktop/tolja.github.io"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.3.1",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.3.1.tgz",
   "_spec": "5.3.1",
-  "_where": "/Users/tolja/Downloads/startbootstrap-creative-gh-pages",
+  "_where": "/Users/tolja/Desktop/tolja.github.io",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
